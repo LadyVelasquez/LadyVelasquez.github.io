@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sobre mi
+title: Sobremi
 first_name: Lady
 middle_name: C.
 last_name: Velasquez
@@ -628,7 +628,7 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
-
+# Este es un comentario para forzar la actualización
 jsonresume:
   - basics
   - work
